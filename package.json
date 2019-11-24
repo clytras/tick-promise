@@ -6,12 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clytras/tick-promise.git"
+  },
   "keywords": [
     "process",
     "nextTick",
     "promise"
   ],
-  "author": "Christos Lytras",
+  "author": {
+    "name": "Christos Lytras",
+    "email": "christos.lytras@gmail.com",
+    "url": "https://lytrax.io"
+  },
   "license": "MIT",
   "devDependencies": {
     "prompts": "^2.3.0",
