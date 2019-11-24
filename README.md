@@ -16,6 +16,10 @@ const nextTick = require('tick-promise');
 })()
 ```
 
+## Install
+
+`npm install tick-promise`
+
 ## Demo / Use case
 
 For an example we'll use 2 nice node modules, [`prompts`][2] for retrieving user input and [`simple-node-logger`][1] to create our logs:
